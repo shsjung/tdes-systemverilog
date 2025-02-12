@@ -41,4 +41,4 @@ Contributions are welcome! Please open an issue or submit a Pull Request if you'
 ## Reference
 
 1. [Recommendation for the Triple Data Encryption Algorithm (TDEA) Block Cipher: NIST SP 800-67 Rev. 2](https://csrc.nist.gov/pubs/sp/800/67/r2/final)
-2. [NIST to Withdraw Special Publication 800-67 Revision 2]((https://csrc.nist.gov/news/2023/nist-to-withdraw-sp-800-67-rev-2)
+2. [NIST to Withdraw Special Publication 800-67 Revision 2](https://csrc.nist.gov/news/2023/nist-to-withdraw-sp-800-67-rev-2)
